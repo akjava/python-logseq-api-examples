@@ -7,5 +7,5 @@ Code examples for calling Logseq API from Python with the requests module.
 ## Japanese
 興味があったらサポートしてください。サンプルを増やします。
 
-### Examples
-- Hello logseq - 基本の４つのAPIの例 see examples フォルダー
+### Examplesフォルダー
+- Hello logseq - 基本の４つのAPIの例
