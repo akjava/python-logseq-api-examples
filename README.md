@@ -10,7 +10,7 @@ Code examples for calling Logseq API from Python with the requests module.
 
 ### Examplesフォルダー
 - Hello logseq - 基本の４つのAPIの例
-
+- linear_csv_logseq - Linear.appのissue-csvをlogseqで表示
 ### その他
 If you are python professional his way is very helpful
 https://gist.github.com/ksqsf/c3f254545cd8f5e597fc67c1014da9ac
